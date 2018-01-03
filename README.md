@@ -1,6 +1,6 @@
-# Number Guess game
+# Number Guesser game
 
-💷Simple game using JavaScript
+:satisfied: Simple game using JavaScript
 
 ## Built With
 
