@@ -13,9 +13,9 @@
   - Let player choose to play again.
 
 ### You can change:
-  - *Lifes*: Modify the ***lifes*** variable.
-  - *Min*: The start/min number to generate the random number. Modify the ***min*** variable.
-  - *Max*: The end/max number to generate the random number. Modify the ***max*** variable.
+  - **Lifes**: Modify the *lifes* variable.
+  - **Min**: The start/min number to generate the random number. Modify the *min* variable.
+  - **Max**: The end/max number to generate the random number. Modify the *max* variable.
 
 ## Author
 
